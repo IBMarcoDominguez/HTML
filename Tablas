@@ -1,0 +1,36 @@
+<!-- Este algoritmo es para indicar que se esta utilizando html 5-->
+<!odctype html
+<!-- empiezo html-->
+<html>
+    <!-- head es para title de la pagina-->
+  <head>
+    <title>Mi primera pagina</title>  <!--nombre de la pagina-->
+  </head> <!--cierro title-->
+  <body><!-- inicio contenido de la pagina -->
+    <table> <!--crear una tabla-->
+        <thead> <!--crear las cabezeras-->
+            <tr> <!--crear filas-->
+                <th>Mes</th><!--crear las celdas de la cabezera-->
+                <th>Ahorros</th>
+            </tr>
+        </thead>
+        <tbody> <!--crear contenido-->
+            <tr> <!--crear celdas-->
+                <td>Enero</td> <!--contenido de la celda-->
+                <td>1000$</td>
+            </tr>
+            <tr>
+
+                <td>Febrero</td>
+                <td>500$</td>
+            </tr>
+        </tbody>
+        <tfoot> <!--crear con contenido final o combiancion de celadas anidadas-->
+            <tr> <!--contenido de la celda-->
+                <td>Sume Total:</td>
+                <td>1500$</td>
+            </tr>
+        </tfoot>
+    </table>
+  </body>
+</html>
