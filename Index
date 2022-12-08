@@ -1,0 +1,44 @@
+<!-- Este algoritmo es para indicar que se esta utilizando html 5-->
+<!odctype html
+<!-- empiezo html-->
+<html>
+    <!-- head es para title de la pagina-->
+  <head>
+    <title>Mi primera pagina</title>  <!--nombre de la pagina-->
+  </head> <!--cierro title-->
+  <body><!-- inicio contenido de la pagina -->
+    <!--diferentes tipos de tamaños de titulos-->
+    <h1>Titulo 1</h1> 
+    <h2>Titulo 2</h2>
+    <h3>Titulo 3</h3>
+    <h4>Titulo 4</h4>
+    <h5>Titulo 5</h5>
+    <h6>Titulo 6</h6>
+    <!--p crear texto de contenido-->
+    <p>Hola! yo soy un parrafo</p>
+    <!--hr crea una linea de separacion-->
+    <hr />
+    <!-- <p>Hola! <br />yo soy un parrafo</p> -->
+    <p> Este es mi <b>parrafo 3! </b></p> <!--b es para indicar texto en negritas-->
+    <!--blockquote es para crear texto en formato de cita y permite resaltar la frase celebre-->
+    <blockquote>"Las personas tranquilas y silenciosas son las que tienen las mentes más fuertes y ruidosas".</blockquote>
+    <code>hola soy un codigo!</code> <!--code es para agregar codigo en el formato de texto usual para el algoritmo-->
+    <hr>
+    <es>Soy texto con enfasis</es> <!--crea un texto resaltado-->
+    <hr>
+    <i>Soy texto italic</i> <!--texto en cursiva-->
+    <hr>
+    <pre>PreFormateado</pre> <!--Texto con estilo-->
+    <hr>
+    <s>PreFormateado</s> <!--enfasis de cancelar lo dicho o broma-->
+    <hr>
+    <small>pequeño</small> <!--texto pequeño-->
+    <hr>
+    <strong>Texto en negritas</strong>
+    <br />
+    <u>esto es un texto subrayado</u>
+    <div>Seccion 1</div>
+    <div>Seccion 2</div>
+    <div>Seccion 3</div>
+</body>
+</html>
