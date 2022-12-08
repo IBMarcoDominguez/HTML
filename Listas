@@ -1,0 +1,23 @@
+<!-- Este algoritmo es para indicar que se esta utilizando html 5-->
+<!odctype html
+<!-- empiezo html-->
+<html>
+    <!-- head es para title de la pagina-->
+  <head>
+    <title>Mi primera pagina</title>  <!--nombre de la pagina-->
+  </head> <!--cierro title-->
+  <body><!-- inicio contenido de la pagina -->
+    <ul>
+        <!--Lista No ordenada-->
+        <li>Elemento 1</li>
+        <li>Elemento 2</li>
+        <li>Elemento 3</li>
+    </ul>
+    <ol>
+        <!--Lista Ordena-->
+        <li>Elemento 1</li>
+        <li>Elemento 2</li>
+        <li>Elemento 3</li>
+    </ol>
+  </body>
+</html>
