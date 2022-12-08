@@ -1,0 +1,13 @@
+<!-- Este algoritmo es para indicar que se esta utilizando html 5-->
+<!odctype html
+<!-- empiezo html-->
+<html>
+    <!-- head es para title de la pagina-->
+  <head>
+    <title>Mi primera pagina</title>  <!--nombre de la pagina-->
+  </head> <!--cierro title-->
+  <body><!-- inicio contenido de la pagina -->
+    <img src="http://placekitten.com/450/500"/> <!--crear acceso a una imagen alojada en la web-->
+    <a href="https://www.google.com">Ir a google</a> <!--crear un link con acceso a la web-->
+  </body>
+</html>
