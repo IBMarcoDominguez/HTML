@@ -1,0 +1,33 @@
+<!-- Este algoritmo es para indicar que se esta utilizando html 5-->
+<!odctype html
+<!-- empiezo html-->
+<html>
+    <!-- head es para title de la pagina-->
+  <head>
+    <title>Mi primera pagina</title>  <!--nombre de la pagina-->
+  </head> <!--cierro title-->
+  <body><!-- inicio contenido de la pagina -->
+    <form> <!--formas-->
+        <fieldset> <!--crea un cuadro agrupando las areas de interes-->
+            <legend>Datos Personales</legend> <!--agrega title a fieldset-->
+            <label>Edad</label> <!--nombra los widgets-->
+            <input type="number" placeholder="Ingresa Edad..."> <!--casilla numerica-->
+            <br />
+            <label>Codigo de Seguridad</label>
+            <input type="password"><!--casilla contraseña-->
+            <br />
+            <label>Nombre</label>
+            <input type="text"/><!--casilla de texto-->
+            <br />
+            <input type="submit" value="Aceptar" /><!--boton enviar-->
+            <textarea></textarea><!--crea un cuador de texto-->
+            <button>Aceptar</button> <!--crea un boton-->
+            <select><!--crea un widgets de opciones multiples-->
+                <option value="goku">Goku</option> <!--opciones-->
+                <option value="vegueta">Vegueta</option>
+                <option value="gohan">Gohan</option>
+            </select>
+        </fieldset>
+    </form>
+</body>
+</html>
